@@ -1,0 +1,5 @@
+#jobCard:hover{
+border-left: 4px solid blue;
+transition: all ease 0.1s;
+cursor: pointer;
+}
